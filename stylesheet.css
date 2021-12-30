@@ -183,11 +183,11 @@ a:hover {
    text-shadow: 1px 1px 2px #8fce00;
 }
 
-@media only screen and (max-width: 767px) {
+/*@media only screen and (max-width: 767px) {
    a {
       padding-left: 40%;
    }
-}
+}*/
 
 @media only screen and (min-width: 767px) {
    .YtDisc {
@@ -222,9 +222,4 @@ a:hover {
       width: auto;
       height: auto;
    }
-}
-
-.ClickHere {
-   text-decoration: none;
-   font-family: 'Source Serif Pro', serif;
 }
